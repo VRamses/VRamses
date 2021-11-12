@@ -1,5 +1,3 @@
-# Meu primeiro commit 
-
 # Olá, eu sou Victor Ramsés!
 
 Sou um entusiasta de tecnologia e atualmente faço o curso de Desenvolvimento de Sistemas pelo SENAI! Atualmente estou aprendendo C e Java, mas sou apaixonado por UX e UI!
